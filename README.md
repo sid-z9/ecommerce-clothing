@@ -1,1 +1,1 @@
-# ecommerce-clothing
+# ecommerce-game-store
